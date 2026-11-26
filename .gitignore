@@ -1,0 +1,21 @@
+venv/
+__pycache__/
+*.pyc
+.env
+
+# Build artifacts
+build/
+dist/
+*.spec.bak
+
+# Local data and backups
+*.db
+*.sqlite
+*.sqlite3
+*.log
+*.tmp
+*.bak
+
+# OS files
+.DS_Store
+Thumbs.db
